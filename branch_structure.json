@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-644",
+    "fix/issue-653",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-644": "main",
+    "fix/issue-653": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-644",
+    "fix/issue-653",
+    "origin"
+  ]
+}
